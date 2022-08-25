@@ -1,0 +1,1 @@
+{"height": 16, "insert_avg_time": 3.643750643730164e-05, "total_insert_time": 36.60145616531372}
